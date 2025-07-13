@@ -1,0 +1,1026 @@
+{
+  "users": [
+    {
+      "walletAddress": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B",
+      "fullName": "Priya Sharma",
+      "dateOfBirth": "1995-03-15",
+      "addressLine1": "Flat No. 101, Surya Apartments",
+      "addressLine2": "Gandhi Nagar",
+      "city": "Bengaluru",
+      "state": "karnataka",
+      "pincode": "560001",
+      "phoneNumber": "9876543210",
+      "registrationDate": "2023-01-10T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x5aAeb6053F3E94C9b9A09f33669435E4D6Bf7dC",
+      "fullName": "Amit Patel",
+      "dateOfBirth": "1988-07-22",
+      "addressLine1": "12/A, Jyoti Complex",
+      "addressLine2": "",
+      "city": "Mumbai",
+      "state": "maharashtra",
+      "pincode": "400001",
+      "phoneNumber": "9820098200",
+      "registrationDate": "2023-02-20T11:30:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x9C2B835B4E870427B343F14d2355A669A0Aa84B9",
+      "fullName": "Sunita Rao",
+      "dateOfBirth": "1992-11-30",
+      "addressLine1": "789, Lakshmi Road",
+      "addressLine2": "Near City Market",
+      "city": "Chennai",
+      "state": "tamil-nadu",
+      "pincode": "600001",
+      "phoneNumber": "9940099400",
+      "registrationDate": "2023-03-05T09:00:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE",
+      "fullName": "Rahul Kumar",
+      "dateOfBirth": "2000-01-01",
+      "addressLine1": "House No. 45",
+      "addressLine2": "Sector 15",
+      "city": "Noida",
+      "state": "uttar-pradesh",
+      "pincode": "201301",
+      "phoneNumber": "9560095600",
+      "registrationDate": "2023-04-12T14:00:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x7B2B3bfa09f9b5d259e1c3a5e120152541a0cAc9",
+      "fullName": "Anjali Gupta",
+      "dateOfBirth": "1998-09-05",
+      "addressLine1": "23, Rose Villa",
+      "addressLine2": "Koregaon Park",
+      "city": "Pune",
+      "state": "maharashtra",
+      "pincode": "411001",
+      "phoneNumber": "9158091580",
+      "registrationDate": "2023-05-18T18:45:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x1a9C8182DEa4b0d167874955B2a255C8C38b3299",
+      "fullName": "Sandeep Singh",
+      "dateOfBirth": "1985-06-12",
+      "addressLine1": "Kothi No. 111",
+      "addressLine2": "Phase 7",
+      "city": "Mohali",
+      "state": "punjab",
+      "pincode": "160055",
+      "phoneNumber": "9815098150",
+      "registrationDate": "2023-06-25T12:10:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF",
+      "fullName": "Meera Iyer",
+      "dateOfBirth": "1993-04-25",
+      "addressLine1": "4B, Greenview Heights",
+      "addressLine2": "Besant Nagar",
+      "city": "Chennai",
+      "state": "tamil-nadu",
+      "pincode": "600090",
+      "phoneNumber": "9840198401",
+      "registrationDate": "2023-07-01T16:20:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x6f3F337fB29d7fA7A97271427b1De1D5d1a5A2D2",
+      "fullName": "Vikram Reddy",
+      "dateOfBirth": "1990-12-18",
+      "addressLine1": "Plot No. 8-2-293",
+      "addressLine2": "Road No. 36, Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "telangana",
+      "pincode": "500033",
+      "phoneNumber": "9848098480",
+      "registrationDate": "2023-08-11T11:00:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x0A5E3b5C5c9e2f8d3F8c8A6b5c4d3e2f1A0B9C8D",
+      "fullName": "Pooja Desai",
+      "dateOfBirth": "1999-02-08",
+      "addressLine1": "A-502, Ocean View",
+      "addressLine2": "Juhu Tara Road",
+      "city": "Mumbai",
+      "state": "maharashtra",
+      "pincode": "400049",
+      "phoneNumber": "9819098190",
+      "registrationDate": "2023-09-09T09:30:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0xE1a5c85B8d6A8F4e3b5C9d1f0A4b7c6D8E2F0A3B",
+      "fullName": "Rajesh Nair",
+      "dateOfBirth": "1987-10-20",
+      "addressLine1": "TC 25/1234",
+      "addressLine2": "Pattom",
+      "city": "Thiruvananthapuram",
+      "state": "kerala",
+      "pincode": "695004",
+      "phoneNumber": "9447094470",
+      "registrationDate": "2023-10-15T13:15:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0xC4a5B8e7D6f0A3B2c1d9E8F7A6b5c4d3e2f1A0B9",
+      "fullName": "Kavita Singh",
+      "dateOfBirth": "1996-08-14",
+      "addressLine1": "MIG-214, BDA Colony",
+      "addressLine2": "",
+      "city": "Bhubaneswar",
+      "state": "odisha",
+      "pincode": "751003",
+      "phoneNumber": "9437094370",
+      "registrationDate": "2023-11-22T17:00:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x9F8c7B6a5d4e3f2A1B0c9d8e7f6a5b4c3d2e1f0A",
+      "fullName": "Manoj Kumar",
+      "dateOfBirth": "1984-05-28",
+      "addressLine1": "15, Netaji Subhas Road",
+      "addressLine2": "BBD Bagh",
+      "city": "Kolkata",
+      "state": "west-bengal",
+      "pincode": "700001",
+      "phoneNumber": "9830098300",
+      "registrationDate": "2023-12-01T10:45:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x5c6B7a4E3d2f1A0b9c8d7e6f5a4b3c2d1e0f9F8C",
+      "fullName": "Deepa Mehta",
+      "dateOfBirth": "1991-09-19",
+      "addressLine1": "303, Tulip Gardenia",
+      "addressLine2": "Sector 69",
+      "city": "Gurugram",
+      "state": "haryana",
+      "pincode": "122018",
+      "phoneNumber": "9818098180",
+      "registrationDate": "2024-01-08T11:20:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x8E7f6a5b4c3d2e1f0A9F8c7B6a5d4e3f2A1B0c9D",
+      "fullName": "Arun Verma",
+      "dateOfBirth": "1989-07-07",
+      "addressLine1": "S-12, Panchsheel Park",
+      "addressLine2": "",
+      "city": "New Delhi",
+      "state": "delhi",
+      "pincode": "110017",
+      "phoneNumber": "9811098110",
+      "registrationDate": "2024-02-14T15:00:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x3A2B1C0d9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B",
+      "fullName": "Sneha Reddy",
+      "dateOfBirth": "1997-01-23",
+      "addressLine1": "6-3-883/2, Begumpet",
+      "addressLine2": "Near Lifestyle",
+      "city": "Hyderabad",
+      "state": "telangana",
+      "pincode": "500016",
+      "phoneNumber": "9866098660",
+      "registrationDate": "2024-03-21T12:30:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x6C5B4A3E2D1F0A9B8C7D6E5F4A3B2C1D0E9F8A7B",
+      "fullName": "Gaurav Joshi",
+      "dateOfBirth": "1994-11-11",
+      "addressLine1": "7, Narayan Peth",
+      "addressLine2": "",
+      "city": "Pune",
+      "state": "maharashtra",
+      "pincode": "411030",
+      "phoneNumber": "9890098900",
+      "registrationDate": "2024-04-28T09:00:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x0D9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E",
+      "fullName": "Neha Agarwal",
+      "dateOfBirth": "1992-03-03",
+      "addressLine1": "C-2, Indiranagar",
+      "addressLine2": "1st Stage",
+      "city": "Bengaluru",
+      "state": "karnataka",
+      "pincode": "560038",
+      "phoneNumber": "9900099000",
+      "registrationDate": "2024-05-05T19:00:00Z",
+      "isVerified": false
+    },
+    {
+      "walletAddress": "0x9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F",
+      "fullName": "Alok Nath",
+      "dateOfBirth": "1983-08-29",
+      "addressLine1": "A-1, Vasant Kunj",
+      "addressLine2": "",
+      "city": "New Delhi",
+      "state": "delhi",
+      "pincode": "110070",
+      "phoneNumber": "9810098100",
+      "registrationDate": "2024-06-12T14:45:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F9E8F7A6B5C",
+      "fullName": "Shreya Ghoshal",
+      "dateOfBirth": "1990-04-16",
+      "addressLine1": "B-Wing, 401, Celebrity Apartments",
+      "addressLine2": "Andheri West",
+      "city": "Mumbai",
+      "state": "maharashtra",
+      "pincode": "400053",
+      "phoneNumber": "9821098210",
+      "registrationDate": "2024-07-01T11:10:00Z",
+      "isVerified": true
+    },
+    {
+      "walletAddress": "0x8A7B6C5D4E3F2A1B0C9D8E7F6A5B4C3D2E1F0A9F",
+      "fullName": "Rohan Mehra",
+      "dateOfBirth": "2001-02-27",
+      "addressLine1": "House No. 1234",
+      "addressLine2": "Sector 46",
+      "city": "Chandigarh",
+      "state": "chandigarh",
+      "pincode": "160047",
+      "phoneNumber": "9872098720",
+      "registrationDate": "2024-07-15T10:00:00Z",
+      "isVerified": false
+    }
+  ],
+  "grievances": [
+    {
+      "grievanceId": "GRV001",
+      "walletAddress": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B",
+      "citizenName": "Priya Sharma",
+      "citizenEmail": "priya.sharma@example.com",
+      "citizenPhone": "9876543210",
+      "citizenAddress": "Flat No. 101, Surya Apartments, Gandhi Nagar, Bengaluru, karnataka, 560001",
+      "description": "The street lights in our area have not been working for the past two weeks. This is causing a lot of inconvenience and safety concerns for the residents, especially at night.",
+      "department": "electricity",
+      "state": "karnataka",
+      "status": "raised",
+      "priority": "high",
+      "submittedAt": "2025-01-10T14:30:00Z",
+      "transactionHash": "0x123abcde123abcde123abcde123abcde123abcde123abcde123abcde1234",
+      "blockNumber": "123456",
+      "gasUsed": "21000",
+      "category": "Utilities",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Grievance has been submitted by the citizen.",
+          "timestamp": "2025-01-10T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "grievanceId": "GRV002",
+      "walletAddress": "0x5aAeb6053F3E94C9b9A09f33669435E4D6Bf7dC",
+      "citizenName": "Amit Patel",
+      "citizenEmail": "amit.patel@example.com",
+      "citizenPhone": "9820098200",
+      "citizenAddress": "12/A, Jyoti Complex, , Mumbai, maharashtra, 400001",
+      "description": "There is a large pothole on the main road that is causing traffic congestion and is a hazard to two-wheelers. It has been there for over a month and is getting bigger.",
+      "department": "public-works",
+      "state": "maharashtra",
+      "status": "in_progress",
+      "priority": "urgent",
+      "submittedAt": "2025-01-12T10:00:00Z",
+      "transactionHash": "0x234bcdea234bcdea234bcdea234bcdea234bcdea234bcdea234bcdea2345",
+      "blockNumber": "123490",
+      "gasUsed": "22500",
+      "category": "Infrastructure",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Grievance has been submitted and is pending review.",
+          "timestamp": "2025-01-12T10:00:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "The complaint has been assigned to a field officer for inspection.",
+          "timestamp": "2025-01-14T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "grievanceId": "GRV003",
+      "walletAddress": "0x9C2B835B4E870427B343F14d2355A669A0Aa84B9",
+      "citizenName": "Sunita Rao",
+      "citizenEmail": "sunita.rao@example.com",
+      "citizenPhone": "9940099400",
+      "citizenAddress": "789, Lakshmi Road, Near City Market, Chennai, tamil-nadu, 600001",
+      "description": "We are facing irregular water supply in our locality for the past month. The water pressure is very low and sometimes there is no water for the entire day.",
+      "department": "water-supply",
+      "state": "tamil-nadu",
+      "status": "resolved",
+      "priority": "high",
+      "submittedAt": "2025-01-15T09:00:00Z",
+      "transactionHash": "0x345cdeab345cdeab345cdeab345cdeab345cdeab345cdeab345cdeab3456",
+      "blockNumber": "123520",
+      "gasUsed": "23000",
+      "category": "Utilities",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Complaint filed regarding inconsistent water supply.",
+          "timestamp": "2025-01-15T09:00:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "A maintenance team was dispatched to check the pipeline.",
+          "timestamp": "2025-01-17T14:00:00Z"
+        },
+        {
+          "status": "resolved",
+          "description": "The leak in the main pipeline was fixed and water supply has been restored to normal.",
+          "timestamp": "2025-01-20T17:30:00Z"
+        }
+      ]
+    },
+    {
+      "grievanceId": "GRV004",
+      "walletAddress": "0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE",
+      "citizenName": "Rahul Kumar",
+      "citizenEmail": "rahul.kumar@example.com",
+      "citizenPhone": "9560095600",
+      "citizenAddress": "House No. 45, Sector 15, Noida, uttar-pradesh, 201301",
+      "description": "The local government school is in a very poor condition. The classrooms are not clean and the toilets are unusable. This is affecting the health and education of the children.",
+      "department": "education",
+      "state": "uttar-pradesh",
+      "status": "in_progress",
+      "priority": "medium",
+      "submittedAt": "2025-01-18T11:00:00Z",
+      "transactionHash": "0x456deabc456deabc456deabc456deabc456deabc456deabc456deabc4567",
+      "blockNumber": "123580",
+      "gasUsed": "21800",
+      "category": "Education",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Complaint about the poor condition of the government school.",
+          "timestamp": "2025-01-18T11:00:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "The education department has acknowledged the issue and a committee has been formed to inspect the school.",
+          "timestamp": "2025-01-22T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "grievanceId": "GRV005",
+      "walletAddress": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B",
+      "citizenName": "Priya Sharma",
+      "citizenEmail": "priya.sharma@example.com",
+      "citizenPhone": "9876543210",
+      "citizenAddress": "Flat No. 101, Surya Apartments, Gandhi Nagar, Bengaluru, karnataka, 560001",
+      "description": "Garbage is not being collected regularly from our area, leading to unhygienic conditions and a foul smell. This has been a recurring problem for the last three months and needs a permanent solution.",
+      "department": "municipal-services",
+      "state": "karnataka",
+      "status": "resolved",
+      "priority": "high",
+      "submittedAt": "2025-02-01T09:30:00Z",
+      "transactionHash": "0x567eabcd567eabcd567eabcd567eabcd567eabcd567eabcd567eabcd5678",
+      "blockNumber": "124001",
+      "gasUsed": "24000",
+      "category": "Sanitation",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Citizen reported irregular garbage collection.",
+          "timestamp": "2025-02-01T09:30:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "The issue has been forwarded to the local municipal ward office.",
+          "timestamp": "2025-02-02T12:00:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "A new schedule for garbage collection has been put in place for the area.",
+          "timestamp": "2025-02-05T15:00:00Z"
+        },
+        {
+          "status": "resolved",
+          "description": "The garbage is now being collected daily as per the new schedule. The issue is resolved.",
+          "timestamp": "2025-02-10T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "grievanceId": "GRV006",
+      "walletAddress": "0x7B2B3bfa09f9b5d259e1c3a5e120152541a0cAc9",
+      "citizenName": "Anjali Gupta",
+      "citizenEmail": "anjali.gupta@example.com",
+      "citizenPhone": "9158091580",
+      "citizenAddress": "23, Rose Villa, Koregaon Park, Pune, maharashtra, 411001",
+      "description": "There is a problem of stray dogs in our locality which has become a menace. They are aggressive and have bitten a few people. We request the concerned department to take necessary action.",
+      "department": "health-medical",
+      "state": "maharashtra",
+      "status": "failed",
+      "priority": "urgent",
+      "submittedAt": "2025-02-05T18:00:00Z",
+      "transactionHash": "0x678fabcd678fabcd678fabcd678fabcd678fabcd678fabcd678fabcd6789",
+      "blockNumber": "124112",
+      "gasUsed": "21500",
+      "category": "Public Safety",
+      "timeline": [
+        {
+          "status": "raised",
+          "description": "Complaint about aggressive stray dogs in the neighborhood.",
+          "timestamp": "2025-02-05T18:00:00Z"
+        },
+        {
+          "status": "in_progress",
+          "description": "The animal control department has been notified.",
+          "timestamp": "2025-02-07T10:00:00Z"
+        },
+        {
+          "status": "failed",
+          "description": "The team visited the area but could not locate the aggressive dogs. The case is closed for now.",
+          "timestamp": "2025-02-12T16:00:00Z"
+        }
+      ]
+    },
+    {
+        "grievanceId": "GRV007",
+        "walletAddress": "0x1a9C8182DEa4b0d167874955B2a255C8C38b3299",
+        "citizenName": "Sandeep Singh",
+        "citizenEmail": "sandeep.singh@example.com",
+        "citizenPhone": "9815098150",
+        "citizenAddress": "Kothi No. 111, Phase 7, Mohali, punjab, 160055",
+        "description": "The public park in our area is not well-maintained. The children's play equipment is broken and the walking track is damaged. It needs immediate attention from the municipal services.",
+        "department": "municipal-services",
+        "state": "punjab",
+        "status": "in_progress",
+        "priority": "medium",
+        "submittedAt": "2025-02-15T11:45:00Z",
+        "transactionHash": "0x789abcde789abcde789abcde789abcde789abcde789abcde789abcde7890",
+        "blockNumber": "124321",
+        "gasUsed": "23500",
+        "category": "Recreation",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint filed for poor maintenance of the local park.",
+            "timestamp": "2025-02-15T11:45:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The parks and recreation department has scheduled a visit for assessment.",
+            "timestamp": "2025-02-18T14:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV008",
+        "walletAddress": "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF",
+        "citizenName": "Meera Iyer",
+        "citizenEmail": "meera.iyer@example.com",
+        "citizenPhone": "9840198401",
+        "citizenAddress": "4B, Greenview Heights, Besant Nagar, Chennai, tamil-nadu, 600090",
+        "description": "There are frequent power cuts in our area, especially during the evening. This is causing a lot of trouble for students and people working from home. We need a stable electricity supply.",
+        "department": "electricity",
+        "state": "tamil-nadu",
+        "status": "raised",
+        "priority": "high",
+        "submittedAt": "2025-02-20T19:00:00Z",
+        "transactionHash": "0x890bcdea890bcdea890bcdea890bcdea890bcdea890bcdea890bcdea8901",
+        "blockNumber": "124500",
+        "gasUsed": "21000",
+        "category": "Utilities",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Citizen has reported frequent power outages.",
+            "timestamp": "2025-02-20T19:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV009",
+        "walletAddress": "0x6f3F337fB29d7fA7A97271427b1De1D5d1a5A2D2",
+        "citizenName": "Vikram Reddy",
+        "citizenEmail": "vikram.reddy@example.com",
+        "citizenPhone": "9848098480",
+        "citizenAddress": "Plot No. 8-2-293, Road No. 36, Jubilee Hills, Hyderabad, telangana, 500033",
+        "description": "The new property tax assessment for my property seems to be incorrect and excessively high. I request a re-assessment and a justification for the high amount.",
+        "department": "revenue-taxation",
+        "state": "telangana",
+        "status": "in_progress",
+        "priority": "medium",
+        "submittedAt": "2025-02-25T12:00:00Z",
+        "transactionHash": "0x901cdeab901cdeab901cdeab901cdeab901cdeab901cdeab901cdeab9012",
+        "blockNumber": "124789",
+        "gasUsed": "25000",
+        "category": "Taxation",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Dispute filed against the new property tax assessment.",
+            "timestamp": "2025-02-25T12:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The revenue department is reviewing the submitted documents.",
+            "timestamp": "2025-02-28T16:30:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV010",
+        "walletAddress": "0x0A5E3b5C5c9e2f8d3F8c8A6b5c4d3e2f1A0B9C8D",
+        "citizenName": "Pooja Desai",
+        "citizenEmail": "pooja.desai@example.com",
+        "citizenPhone": "9819098190",
+        "citizenAddress": "A-502, Ocean View, Juhu Tara Road, Mumbai, maharashtra, 400049",
+        "description": "The drainage system in our lane gets blocked every time it rains, leading to waterlogging. This makes it very difficult to commute and is a health hazard. We need a permanent fix for this.",
+        "department": "public-works",
+        "state": "maharashtra",
+        "status": "resolved",
+        "priority": "urgent",
+        "submittedAt": "2025-03-01T10:00:00Z",
+        "transactionHash": "0x012deabc012deabc012deabc012deabc012deabc012deabc012deabc0123",
+        "blockNumber": "125000",
+        "gasUsed": "24500",
+        "category": "Infrastructure",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about frequent waterlogging due to blocked drains.",
+            "timestamp": "2025-03-01T10:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "A team has been assigned to clear the drains.",
+            "timestamp": "2025-03-03T11:00:00Z"
+          },
+          {
+            "status": "resolved",
+            "description": "The drains have been cleaned and the waterlogging issue is resolved. A long-term solution is being planned.",
+            "timestamp": "2025-03-08T15:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV011",
+        "walletAddress": "0xE1a5c85B8d6A8F4e3b5C9d1f0A4b7c6D8E2F0A3B",
+        "citizenName": "Rajesh Nair",
+        "citizenEmail": "rajesh.nair@example.com",
+        "citizenPhone": "9447094470",
+        "citizenAddress": "TC 25/1234, Pattom, Thiruvananthapuram, kerala, 695004",
+        "description": "The process for getting a new water connection is very slow and cumbersome. My application has been pending for over two months without any update.",
+        "department": "water-supply",
+        "state": "kerala",
+        "status": "in_progress",
+        "priority": "low",
+        "submittedAt": "2025-03-10T14:00:00Z",
+        "transactionHash": "0x123efabc123efabc123efabc123efabc123efabc123efabc123efabc1234",
+        "blockNumber": "125234",
+        "gasUsed": "22000",
+        "category": "Services",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about the delay in getting a new water connection.",
+            "timestamp": "2025-03-10T14:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The application is under review by the concerned authority.",
+            "timestamp": "2025-03-15T12:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV012",
+        "walletAddress": "0xC4a5B8e7D6f0A3B2c1d9E8F7A6b5c4d3e2f1A0B9",
+        "citizenName": "Kavita Singh",
+        "citizenEmail": "kavita.singh@example.com",
+        "citizenPhone": "9437094370",
+        "citizenAddress": "MIG-214, BDA Colony, , Bhubaneswar, odisha, 751003",
+        "description": "The street vendor encroachment in our area is causing a lot of traffic and pedestrian problems. Despite multiple complaints, no action has been taken by the authorities.",
+        "department": "police-security",
+        "state": "odisha",
+        "status": "raised",
+        "priority": "medium",
+        "submittedAt": "2025-03-18T09:30:00Z",
+        "transactionHash": "0x234fabcd234fabcd234fabcd234fabcd234fabcd234fabcd234fabcd2345",
+        "blockNumber": "125555",
+        "gasUsed": "23000",
+        "category": "Public Order",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about illegal street vendor encroachment.",
+            "timestamp": "2025-03-18T09:30:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV013",
+        "walletAddress": "0x9F8c7B6a5d4e3f2A1B0c9d8e7f6a5b4c3d2e1f0A",
+        "citizenName": "Manoj Kumar",
+        "citizenEmail": "manoj.kumar@example.com",
+        "citizenPhone": "9830098300",
+        "citizenAddress": "15, Netaji Subhas Road, BBD Bagh, Kolkata, west-bengal, 700001",
+        "description": "I have been overcharged in my electricity bill for the past three months. I have submitted a complaint to the local office but there has been no response or resolution.",
+        "department": "electricity",
+        "state": "west-bengal",
+        "status": "in_progress",
+        "priority": "high",
+        "submittedAt": "2025-03-22T13:00:00Z",
+        "transactionHash": "0x345abcde345abcde345abcde345abcde345abcde345abcde345abcde3456",
+        "blockNumber": "125890",
+        "gasUsed": "22800",
+        "category": "Billing",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about incorrect electricity billing.",
+            "timestamp": "2025-03-22T13:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The billing department is investigating the meter readings and past payments.",
+            "timestamp": "2025-03-25T17:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV014",
+        "walletAddress": "0x5c6B7a4E3d2f1A0b9c8d7e6f5a4b3c2d1e0f9F8C",
+        "citizenName": "Deepa Mehta",
+        "citizenEmail": "deepa.mehta@example.com",
+        "citizenPhone": "9818098180",
+        "citizenAddress": "303, Tulip Gardenia, Sector 69, Gurugram, haryana, 122018",
+        "description": "There is a severe lack of public transportation in our sector. The frequency of buses is very low and there are no auto-rickshaw stands nearby, making it difficult to commute.",
+        "department": "municipal-services",
+        "state": "haryana",
+        "status": "raised",
+        "priority": "medium",
+        "submittedAt": "2025-04-01T16:00:00Z",
+        "transactionHash": "0x456bcdea456bcdea456bcdea456bcdea456bcdea456bcdea456bcdea4567",
+        "blockNumber": "126000",
+        "gasUsed": "21900",
+        "category": "Transportation",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about the lack of public transport facilities.",
+            "timestamp": "2025-04-01T16:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV015",
+        "walletAddress": "0x8E7f6a5b4c3d2e1f0A9F8c7B6a5d4e3f2A1B0c9D",
+        "citizenName": "Arun Verma",
+        "citizenEmail": "arun.verma@example.com",
+        "citizenPhone": "9811098110",
+        "citizenAddress": "S-12, Panchsheel Park, , New Delhi, delhi, 110017",
+        "description": "The primary health center in our area is understaffed and lacks basic medicines. Patients have to wait for hours to see a doctor and often return without getting proper treatment.",
+        "department": "health-medical",
+        "state": "delhi",
+        "status": "in_progress",
+        "priority": "urgent",
+        "submittedAt": "2025-04-05T10:30:00Z",
+        "transactionHash": "0x567cdeab567cdeab567cdeab567cdeab567cdeab567cdeab567cdeab5678",
+        "blockNumber": "126345",
+        "gasUsed": "23200",
+        "category": "Healthcare",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about the poor condition of the local health center.",
+            "timestamp": "2025-04-05T10:30:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The Health Department has been notified and a surprise inspection has been planned.",
+            "timestamp": "2025-04-08T11:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV016",
+        "walletAddress": "0x3A2B1C0d9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B",
+        "citizenName": "Sneha Reddy",
+        "citizenEmail": "sneha.reddy@example.com",
+        "citizenPhone": "9866098660",
+        "citizenAddress": "6-3-883/2, Begumpet, Near Lifestyle, Hyderabad, telangana, 500016",
+        "description": "There is an open manhole on the footpath which is very dangerous for pedestrians, especially children and the elderly. It has been like this for over a week and needs to be covered immediately.",
+        "department": "public-works",
+        "state": "telangana",
+        "status": "resolved",
+        "priority": "urgent",
+        "submittedAt": "2025-04-10T09:00:00Z",
+        "transactionHash": "0x678deabc678deabc678deabc678deabc678deabc678deabc678deabc6789",
+        "blockNumber": "126789",
+        "gasUsed": "24800",
+        "category": "Public Safety",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Urgent complaint about a dangerous open manhole.",
+            "timestamp": "2025-04-10T09:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "A maintenance team has been dispatched to the location.",
+            "timestamp": "2025-04-10T11:30:00Z"
+          },
+          {
+            "status": "resolved",
+            "description": "The open manhole has been covered and the area is now safe. Issue is resolved.",
+            "timestamp": "2025-04-11T14:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV017",
+        "walletAddress": "0x6C5B4A3E2D1F0A9B8C7D6E5F4A3B2C1D0E9F8A7B",
+        "citizenName": "Gaurav Joshi",
+        "citizenEmail": "gaurav.joshi@example.com",
+        "citizenPhone": "9890098900",
+        "citizenAddress": "7, Narayan Peth, , Pune, maharashtra, 411030",
+        "description": "The scholarship amount for my child has not been credited for the last academic year. We have completed all the formalities and submitted the required documents.",
+        "department": "education",
+        "state": "maharashtra",
+        "status": "in_progress",
+        "priority": "medium",
+        "submittedAt": "2025-04-15T15:00:00Z",
+        "transactionHash": "0x789efabc789efabc789efabc789efabc789efabc789efabc789efabc7890",
+        "blockNumber": "127001",
+        "gasUsed": "22500",
+        "category": "Education",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint regarding non-credit of scholarship amount.",
+            "timestamp": "2025-04-15T15:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The education department is verifying the application and bank details.",
+            "timestamp": "2025-04-20T12:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV018",
+        "walletAddress": "0x0D9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E",
+        "citizenName": "Neha Agarwal",
+        "citizenEmail": "neha.agarwal@example.com",
+        "citizenPhone": "9900099000",
+        "citizenAddress": "C-2, Indiranagar, 1st Stage, Bengaluru, karnataka, 560038",
+        "description": "The noise pollution from the nearby construction site is unbearable, especially during the night. They are violating the noise level norms and working beyond the permitted hours.",
+        "department": "police-security",
+        "state": "karnataka",
+        "status": "failed",
+        "priority": "high",
+        "submittedAt": "2025-04-22T22:00:00Z",
+        "transactionHash": "0x890fabcd890fabcd890fabcd890fabcd890fabcd890fabcd890fabcd8901",
+        "blockNumber": "127345",
+        "gasUsed": "23300",
+        "category": "Noise Pollution",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about noise pollution from a construction site.",
+            "timestamp": "2025-04-22T22:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "A police patrol has been asked to visit the site and take necessary action.",
+            "timestamp": "2025-04-23T11:00:00Z"
+          },
+          {
+            "status": "failed",
+            "description": "The patrol team visited the site but found no construction activity at that time. The complaint could not be verified.",
+            "timestamp": "2025-04-25T14:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV019",
+        "walletAddress": "0x9E8F7A6B5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F",
+        "citizenName": "Alok Nath",
+        "citizenEmail": "alok.nath@example.com",
+        "citizenPhone": "9810098100",
+        "citizenAddress": "A-1, Vasant Kunj, , New Delhi, delhi, 110070",
+        "description": "My pension has not been credited for the last two months. I am a retired government employee and depend on this pension for my livelihood. Please look into this matter urgently.",
+        "department": "social-welfare",
+        "state": "delhi",
+        "status": "in_progress",
+        "priority": "urgent",
+        "submittedAt": "2025-05-01T11:00:00Z",
+        "transactionHash": "0x901abcde901abcde901abcde901abcde901abcde901abcde901abcde9012",
+        "blockNumber": "127890",
+        "gasUsed": "24000",
+        "category": "Pension",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about non-receipt of pension for two months.",
+            "timestamp": "2025-05-01T11:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The social welfare department is investigating the issue with the treasury office.",
+            "timestamp": "2025-05-05T15:30:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV020",
+        "walletAddress": "0x4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F9E8F7A6B5C",
+        "citizenName": "Shreya Ghoshal",
+        "citizenEmail": "shreya.ghoshal@example.com",
+        "citizenPhone": "9821098210",
+        "citizenAddress": "B-Wing, 401, Celebrity Apartments, Andheri West, Mumbai, maharashtra, 400053",
+        "description": "The condition of the road leading to our apartment is pathetic. It is full of potholes and becomes waterlogged during rains. It needs to be repaired on a priority basis.",
+        "department": "public-works",
+        "state": "maharashtra",
+        "status": "raised",
+        "priority": "high",
+        "submittedAt": "2025-05-10T10:00:00Z",
+        "transactionHash": "0x012bcdea012bcdea012bcdea012bcdea012bcdea012bcdea012bcdea0123",
+        "blockNumber": "128000",
+        "gasUsed": "22000",
+        "category": "Infrastructure",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Citizen has filed a complaint about the bad condition of the road.",
+            "timestamp": "2025-05-10T10:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV021",
+        "walletAddress": "0x8A7B6C5D4E3F2A1B0C9D8E7F6A5B4C3D2E1F0A9F",
+        "citizenName": "Rohan Mehra",
+        "citizenEmail": "rohan.mehra@example.com",
+        "citizenPhone": "9872098720",
+        "citizenAddress": "House No. 1234, Sector 46, Chandigarh, chandigarh, 160047",
+        "description": "The application for my birth certificate has been rejected without any valid reason. I have submitted all the necessary documents as per the requirements.",
+        "department": "municipal-services",
+        "state": "chandigarh",
+        "status": "in_progress",
+        "priority": "medium",
+        "submittedAt": "2025-05-15T12:30:00Z",
+        "transactionHash": "0x123cdeab123cdeab123cdeab123cdeab123cdeab123cdeab123cdeab1234",
+        "blockNumber": "128345",
+        "gasUsed": "23500",
+        "category": "Certificates",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about the rejection of a birth certificate application.",
+            "timestamp": "2025-05-15T12:30:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The application is being re-evaluated by a senior officer.",
+            "timestamp": "2025-05-20T11:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV022",
+        "walletAddress": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B",
+        "citizenName": "Priya Sharma",
+        "citizenEmail": "priya.sharma@example.com",
+        "citizenPhone": "9876543210",
+        "citizenAddress": "Flat No. 101, Surya Apartments, Gandhi Nagar, Bengaluru, karnataka, 560001",
+        "description": "I am not receiving the subsidized ration from the fair price shop for the last two months. The shopkeeper is making excuses and not providing the entitled quantity.",
+        "department": "social-welfare",
+        "state": "karnataka",
+        "status": "in_progress",
+        "priority": "high",
+        "submittedAt": "2025-05-22T10:00:00Z",
+        "transactionHash": "0x234deabc234deabc234deabc234deabc234deabc234deabc234deabc2345",
+        "blockNumber": "128678",
+        "gasUsed": "24200",
+        "category": "Food and Ration",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about not receiving subsidized ration from the fair price shop.",
+            "timestamp": "2025-05-22T10:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The food and civil supplies department has been informed and an inspection of the shop is planned.",
+            "timestamp": "2025-05-25T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV023",
+        "walletAddress": "0x5aAeb6053F3E94C9b9A09f33669435E4D6Bf7dC",
+        "citizenName": "Amit Patel",
+        "citizenEmail": "amit.patel@example.com",
+        "citizenPhone": "9820098200",
+        "citizenAddress": "12/A, Jyoti Complex, , Mumbai, maharashtra, 400001",
+        "description": "The farmer's subsidy for the last crop season has not been released yet. This is causing financial hardship for many farmers in our village.",
+        "department": "agriculture",
+        "state": "maharashtra",
+        "status": "raised",
+        "priority": "urgent",
+        "submittedAt": "2025-06-01T11:30:00Z",
+        "transactionHash": "0x345efabc345efabc345efabc345efabc345efabc345efabc345efabc3456",
+        "blockNumber": "129001",
+        "gasUsed": "25000",
+        "category": "Agriculture",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint regarding the non-disbursal of farmer's subsidy.",
+            "timestamp": "2025-06-01T11:30:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV024",
+        "walletAddress": "0x9C2B835B4E870427B343F14d2355A669A0Aa84B9",
+        "citizenName": "Sunita Rao",
+        "citizenEmail": "sunita.rao@example.com",
+        "citizenPhone": "9940099400",
+        "citizenAddress": "789, Lakshmi Road, Near City Market, Chennai, tamil-nadu, 600001",
+        "description": "The illegal dumping of industrial waste in the nearby river is contaminating the water and affecting the environment. Strict action needs to be taken against the culprits.",
+        "department": "environment",
+        "state": "tamil-nadu",
+        "status": "in_progress",
+        "priority": "urgent",
+        "submittedAt": "2025-06-05T09:00:00Z",
+        "transactionHash": "0x456fabcd456fabcd456fabcd456fabcd456fabcd456fabcd456fabcd4567",
+        "blockNumber": "129345",
+        "gasUsed": "24800",
+        "category": "Environment",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about illegal industrial waste dumping in the river.",
+            "timestamp": "2025-06-05T09:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The pollution control board has collected water samples for testing.",
+            "timestamp": "2025-06-08T14:00:00Z"
+          }
+        ]
+      },
+      {
+        "grievanceId": "GRV025",
+        "walletAddress": "0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE",
+        "citizenName": "Rahul Kumar",
+        "citizenEmail": "rahul.kumar@example.com",
+        "citizenPhone": "9560095600",
+        "citizenAddress": "House No. 45, Sector 15, Noida, uttar-pradesh, 201301",
+        "description": "There has been a rise in chain snatching incidents in our locality in the past few weeks. We request increased police patrolling, especially during the evening hours, to ensure the safety of residents.",
+        "department": "police-security",
+        "state": "uttar-pradesh",
+        "status": "resolved",
+        "priority": "high",
+        "submittedAt": "2025-06-10T20:00:00Z",
+        "transactionHash": "0x567abcde567abcde567abcde567abcde567abcde567abcde567abcde5678",
+        "blockNumber": "129678",
+        "gasUsed": "23000",
+        "category": "Law and Order",
+        "timeline": [
+          {
+            "status": "raised",
+            "description": "Complaint about the increase in chain snatching incidents.",
+            "timestamp": "2025-06-10T20:00:00Z"
+          },
+          {
+            "status": "in_progress",
+            "description": "The local police station has been informed and patrolling has been intensified in the area.",
+            "timestamp": "2025-06-12T10:00:00Z"
+          },
+          {
+            "status": "resolved",
+            "description": "The increased police presence has led to a reduction in such incidents. The issue is considered resolved for now.",
+            "timestamp": "2025-06-25T18:00:00Z"
+          }
+        ]
+      }
+  ]
+}

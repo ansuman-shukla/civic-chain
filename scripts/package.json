@@ -1,0 +1,26 @@
+{
+  "name": "civicchain-db-scripts",
+  "version": "1.0.0",
+  "description": "Database population scripts for CivicChain application",
+  "main": "populateDatabaseEnhanced.js",
+  "scripts": {
+    "populate": "node populateDatabaseEnhanced.js",
+    "populate-basic": "node populateDatabase.js",
+    "test-connection": "node -e \"require('./populateDatabaseEnhanced.js').testApiConnection().then(result => console.log('Connection test:', result ? 'SUCCESS' : 'FAILED')).catch(err => console.error('Connection test FAILED:', err.message))\""
+  },
+  "keywords": [
+    "database",
+    "population",
+    "mongodb",
+    "api",
+    "civicchain"
+  ],
+  "author": "CivicChain Team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
